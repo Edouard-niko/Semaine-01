@@ -15,6 +15,8 @@ dvvvvvv
 
 ## 3. Lexique
 
+dfhgh
+
 - `cd + nom du fichier ou du dossier`: permet de naviguer vers le fichier ou le dossier mentionné
 - `cd ..` : cd espace deux points permet de sortir du fichier/dossier dans lequel on se trouve
 - `ls` : permet de lister tous les dossiers et fichiers présent à l'endroit où vous vous trouvez (par exemple: si vous être sur /Bureau/ il listera l'ensemble des dossiers de votre bureau)
